@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\VSProjects"
+		},
+		{
+			"name": "math-algorithms",
+			"path": "..\\..\\..\\VSProjects\\math-algorithms"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\CSC 263 SE"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\CSC 252 Projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSC 252 Projects"
+	}
+}

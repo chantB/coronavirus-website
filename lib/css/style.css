@@ -1,0 +1,171 @@
+
+ body{
+   margin-top: 20px;
+}
+.containerZ{
+ margin-top:-21px;
+}
+
+  .MapDiv{
+    float: left;
+    width: 50%;
+    height:850px;
+  }
+  .StatsDiv {
+    float: left;
+    width: 50%;
+    height: 850px;
+  }
+  .SmallContainer{
+    box-shadow: 10px 10px 5px grey;
+    color: white;
+    text-align: center;
+    margin-left:120px;
+    background-color: black;
+    height:165px;
+    width:165px;
+    border-radius: 15%;
+  }
+  .SmallContainerDiv{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .SmallContainerString1{
+  margin-top: 45px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .SmallContainerString2{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .SmallContainerDiv2{
+      margin-top: 50px;
+    }
+    .SmallContainerRed{
+      box-shadow: 10px 10px 5px grey;
+      color: white;
+    text-align: center;
+    margin-left:50px;
+    background-color: rgb(167, 3, 3);;
+    height:165px;
+    width:165px;
+    border-radius: 15%;
+    }
+  .pic1{
+    margin-left: 40px;
+    margin-top: 40px;
+    position: absolute;
+}
+.pic2{
+    margin-left: 40px;
+    margin-top: 40px;
+    position: absolute;
+}
+.pic3{
+    margin-left: 40px;
+    margin-top: 40px;
+    position: absolute;
+}
+.pic4{
+    margin-left: 40px;
+    margin-top: 40px;
+    position: absolute;
+}
+.pic5{
+    margin-left: 40px;
+    margin-top: 40px;
+    position: absolute;
+}
+.pic6{
+    margin-left: 40px;
+    margin-top: 40px;
+    position: absolute;
+}
+.container2{
+  margin-top:20px;
+}
+.NorthLebanon{
+  margin-left: 40px;
+  margin-top:10px;
+}
+.jumbotron{
+  color: white !important;
+}
+.jumbotron a{
+  background-color: grey!important;
+  color: white !important;
+}
+.jumbotron a:hover{
+  background-color: white!important;
+  color: black !important;
+}
+.pieDiv{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.pie-chart h2 {
+	position: absolute;
+	margin: 1rem;
+}
+.pie-chart cite {
+	position: absolute;
+	bottom: 0;
+	font-size: 80%;
+	padding: 1rem;
+	color: gray;
+}
+.pie-chart figcaption {
+	position: absolute;
+	bottom: 1em;
+	right: 1em;
+	font-size: smaller;
+	text-align: right;
+}
+.pie-chart span:after {
+	display: inline-block;
+	content: "";
+	width: 0.8em;
+	height: 0.8em;
+	margin-left: 0.4em;
+	height: 0.8em;
+	border-radius: 0.2em;
+	background: currentColor;
+}
+
+.pie-chart2 h2 {
+	position: absolute;
+	margin: 1rem;
+}
+.pie-chart2 cite {
+	position: absolute;
+	bottom: 0;
+	font-size: 80%;
+	padding: 1rem;
+	color: gray;
+}
+.pie-chart2 figcaption {
+	position: absolute;
+	bottom: 1em;
+	right: 1em;
+	font-size: smaller;
+	text-align: right;
+}
+.pie-chart2 span:after {
+	display: inline-block;
+	content: "";
+	width: 0.8em;
+	height: 0.8em;
+	margin-left: 0.4em;
+	height: 0.8em;
+	border-radius: 0.2em;
+	background: currentColor;
+}
+
